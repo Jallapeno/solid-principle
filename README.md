@@ -21,4 +21,5 @@
 
 <a href="https://www.zup.com.br/blog/design-principle-solid">zup.com.br - SOLID principle</a>
 <b>
+
 📬 open to feedbacks... ✌ thaks
